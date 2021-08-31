@@ -110,7 +110,7 @@ Check out our [upgrade guide](https://update.angular.io/) to find out the best w
 
 Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
 
-### Want to Help?
+### Want to Help????
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/angular/angular/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/angular/angular/labels/good%20first%20issue)</kbd>.
 
